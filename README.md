@@ -1,6 +1,6 @@
-.## Coaching Institute Website
+.## Coching Institute Website
 
-A fully responsive coaching institute website built using HTML, CSS, and JavaScript.
+A fully responsive coching institute website built using HTML, CSS, and JavaScript.
 
 ### Features
 - Responsive design (mobile-friendly)
@@ -9,6 +9,6 @@ A fully responsive coaching institute website built using HTML, CSS, and JavaScr
 - Easy to customize
 
 ### Live Demo
-https://username.github.io/coaching-website/
+https://username.github.io/coching-website/
 
 Developed by Shruti
