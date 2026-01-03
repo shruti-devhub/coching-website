@@ -9,6 +9,6 @@ A fully responsive coching institute website built using HTML, CSS, and JavaScri
 - Easy to customize
 
 ### Live Demo
-https://username.github.io/coching-website/
+https://shruti-devhub.github.io/coching-website/
 
 Developed by Shruti
