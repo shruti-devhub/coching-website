@@ -1,4 +1,4 @@
-.## Coching Institute Website
+.## Coaching Institute Website
 
 A fully responsive coching institute website built using HTML, CSS, and JavaScript.
 
@@ -9,6 +9,6 @@ A fully responsive coching institute website built using HTML, CSS, and JavaScri
 - Easy to customize
 
 ### Live Demo
-https://shruti-devhub.github.io/coching-website/
+https://shruti-devhub.github.io/coaching-website/
 
 Developed by Shruti
